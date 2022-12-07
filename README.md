@@ -1,6 +1,4 @@
-# Partidos Radicales Populistas en España
-
-Descripciones de las variables que componen las bases de datos:
+# Descripciones de las variables
 - codigo_ine: Código de identificación municipal del Instituto Nacional de Estadística.
 - ccaa: Comunidad Autónoma a la que pertenece el municipio.
 - prov: Provincia a la que pertenece el municipio.
